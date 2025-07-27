@@ -1,3 +1,5 @@
-* Added Dolby Atmos
-* Updated KernelSU-Next to v1.0.9
-* Misc Changes
+* Switched to Minimal Syscall 1.4 Hooks for KernelSU-Next
+* Trick the camera HAL to unlock full sensors capacity
+* Switch to stock PowerHAL service
+* Updated WeatherPixelPrebuilt
+* Other Misc Changes
