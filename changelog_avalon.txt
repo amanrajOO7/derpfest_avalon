@@ -1,1 +1,4 @@
-* Initial Android 16 Build
+* Added Sony Dolby Atmos
+* Added Double Tap Action in offscreen gestures
+* Added User Selectable PIF
+* Added Screen off animations
