@@ -1,4 +1,9 @@
-* Added Sony Dolby Atmos
-* Added Double Tap Action in offscreen gestures
-* Added User Selectable PIF
-* Added Screen off animations
+* Introduced tile shape mode options in QS settings
+* Added tile squishing animation option in QS settings
+* Added edit button option in QS settings
+* Added option to hide QS footer data usage
+* Introduced Bluetooth Tile behavior options
+* Added switch for small notifications in landscape mode
+* Updated proprietary blobs from CPH2661_15.0.0.1201(EX01)
+* Added susfs support
+* Other miscellaneous changes
