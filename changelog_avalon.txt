@@ -1,9 +1,7 @@
-* Introduced tile shape mode options in QS settings
-* Added tile squishing animation option in QS settings
-* Added edit button option in QS settings
-* Added option to hide QS footer data usage
-* Introduced Bluetooth Tile behavior options
-* Added switch for small notifications in landscape mode
-* Updated proprietary blobs from CPH2661_15.0.0.1201(EX01)
-* Added susfs support
+* Implemented modern single and double tap wake sensors.
+* Switched to AOSP doze
+* Added option to allow showing ambient on Single Tap, Double Tap & pickup gesture
+* Added Haptic Feedback switch on Single Tap, Double Tap & pickup gesture
+* Added option to allow configuring wake sensors on ambient display
+* Added support for daily and weekly data usage cycles
 * Other miscellaneous changes
