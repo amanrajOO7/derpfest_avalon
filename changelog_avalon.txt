@@ -1,7 +1,6 @@
-* Implemented modern single and double tap wake sensors.
-* Switched to AOSP doze
-* Added option to allow showing ambient on Single Tap, Double Tap & pickup gesture
-* Added Haptic Feedback switch on Single Tap, Double Tap & pickup gesture
-* Added option to allow configuring wake sensors on ambient display
-* Added support for daily and weekly data usage cycles
+* Merged September Security Patch
+* Updated proprietary blobs from CPH2661_15.0.0.1204(EX01)
+* Added quick settings layout configuration options
+* Improvent in DerpLauncher
+* Improvemnt in haptics feedback
 * Other miscellaneous changes
