@@ -1,10 +1,3 @@
-* Added torch light control
-* Added option for notification row transparency level
-* Added option for system wide blur intensity
-* Added Google Photos Spoof toggle
-* Merged 6.1.154 in Kernel
-* Updated KernelSU-Next to v1.1.1
-* Improvement in Derp Launcher
-* Improvemnt in haptics feedback
-* Fully rebased over oplus-sm8650 sources
+* Merged October Security Patch
+* Merged 6.1.155 in Kernel
 * Other miscellaneous changes
