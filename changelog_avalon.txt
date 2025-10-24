@@ -1,3 +1,4 @@
-* Merged October Security Patch
-* Merged 6.1.155 in Kernel
+* Added Gesture Anywhere
+* Fixed random freeze issue
+* Fixed UDFPS flickering issue
 * Other miscellaneous changes
