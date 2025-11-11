@@ -1,4 +1,4 @@
-* Added Gesture Anywhere
-* Fixed random freeze issue
-* Fixed UDFPS flickering issue
+* Merge November Security Patch
+* Changes to spoofing
+* Pulse improvments
 * Other miscellaneous changes
