@@ -1,4 +1,6 @@
-* Merge November Security Patch
-* Changes to spoofing
-* Pulse improvments
+* Integrated susfs4ksu patches in kernel
+* Updated common blobs from OOS 11.F.36
+* Updated device blobs from OOS 11.F.10
+* Added High Touch Polling Rate
+* Added High Touch Sensitivity Mode
 * Other miscellaneous changes
