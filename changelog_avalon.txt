@@ -1,6 +1,3 @@
-* Integrated susfs4ksu patches in kernel
-* Updated common blobs from OOS 11.F.36
-* Updated device blobs from OOS 11.F.10
-* Added High Touch Polling Rate
-* Added High Touch Sensitivity Mode
-* Other miscellaneous changes
+* Merged December 2025 Security Patch
+* Resolved incoming call ringing/audio routing issues when connected to Bluetooth headsets/earphones
+* Various under-the-hood improvements, optimizations, and miscellaneous bug fixes
