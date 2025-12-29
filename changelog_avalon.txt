@@ -1,3 +1,5 @@
-* Merged December 2025 Security Patch
-* Resolved incoming call ringing/audio routing issues when connected to Bluetooth headsets/earphones
+* Updated KernelSU to v3.0.0
+* Updated susfs to v2.0.0
+* Fixed the password bug after reboot
+* Merged 6.1.158 Linux Kernel Tag
 * Various under-the-hood improvements, optimizations, and miscellaneous bug fixes
