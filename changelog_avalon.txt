@@ -1,5 +1,5 @@
-* Updated KernelSU to v3.0.0
-* Updated susfs to v2.0.0
-* Fixed the password bug after reboot
-* Merged 6.1.158 Linux Kernel Tag
+* Updated KernelSU-Next to latest dev
+* Fixed KernelSu-Next manager bug
+* Switched to Xiaomi Dolby
+* Merged 6.1.159 Linux Kernel Tag
 * Various under-the-hood improvements, optimizations, and miscellaneous bug fixes
