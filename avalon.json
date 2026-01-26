@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1768396388,
-      "filename": "DerpFest-16.0-Official-Stable-avalon-20260114-1846.zip",
-      "id": "8d0c67b0cfc6b838fa9870bf2395a866429fabcb96d52084bf1ab4688f41dd88",
+      "datetime": 1769417347,
+      "filename": "DerpFest-16.2-Official-Beta-avalon-20260126-1420.zip",
+      "id": "59c2fbcbfec03332bc15576f038f7812b40762038378c2b1b8e304e0f4321d14",
       "romtype": "Official",
-      "size": 3406103735,
-      "url": "https://sourceforge.net/projects/avalon-builds/files/DerpFest/DerpFest-16.0-Official-Stable-avalon-20260114-1846.zip/download",
-      "version": "16.0"
+      "size": 3792897362,
+      "url": "https://sourceforge.net/projects/avalon-builds/files/DerpFest/DerpFest-16.2-Official-Beta-avalon-20260126-1420.zip/download",
+      "version": "16.2"
     }
   ]
 }

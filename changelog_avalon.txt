@@ -1,5 +1,1 @@
-* Updated KernelSU-Next to latest dev
-* Fixed KernelSu-Next manager bug
-* Switched to Xiaomi Dolby
-* Merged 6.1.159 Linux Kernel Tag
-* Various under-the-hood improvements, optimizations, and miscellaneous bug fixes
+* Initial Android 16 QPR2 Build
