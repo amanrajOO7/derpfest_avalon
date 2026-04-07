@@ -1,3 +1,1 @@
-* Updated KernelSU-Next to latest v3.1.0
-* Updated SuSFS to v2.0.2
-* Merged March Security Patch
+* Merged April Security Patch
